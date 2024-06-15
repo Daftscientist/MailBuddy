@@ -1,7 +1,3 @@
-Sure, here is a friendly GitHub README with emojis included for your Emailer library project:
-
----
-
 # 📧 Emailer Library
 
 Welcome to the **Emailer Library**! This is a Python utility designed to make sending formatted emails a breeze! With support for both plain text and HTML email bodies, dynamic content injection, and easy SMTP server configuration, Emailer takes the hassle out of email composition. 🎉
