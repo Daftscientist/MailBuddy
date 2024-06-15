@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "MailBuddy"
+version = "0.1.0"
+description = "A utility designed to simplify the process of sending formatted emails through an SMTP server."
+authors = ["dafty144 <contact@leojohnston.tech>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
