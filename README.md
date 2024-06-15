@@ -1,6 +1,6 @@
-# 📧 Emailer Library
+# 📧 MailBuddy
 
-Welcome to the **Emailer Library**! This is a Python utility designed to make sending formatted emails a breeze! With support for both plain text and HTML email bodies, dynamic content injection, and easy SMTP server configuration, Emailer takes the hassle out of email composition. 🎉
+Welcome to the **MailBuddy Library**! This is a Python utility designed to make sending formatted emails a breeze! With support for both plain text and HTML email bodies, dynamic content injection, and easy SMTP server configuration, MailBuddy takes the hassle out of email composition. 🎉
 
 ## 🚀 Features
 
@@ -14,13 +14,13 @@ Welcome to the **Emailer Library**! This is a Python utility designed to make se
 Clone the repository:
 
 ```bash
-git clone https://github.com/daftscientist/emailer.git
+git clone https://github.com/daftscientist/MailBuddy.git
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd emailer
+cd MailBuddy
 ```
 
 ## 🌟 Usage
@@ -28,7 +28,7 @@ cd emailer
 Here's a quick example to get you started:
 
 ```python
-from Emailer import Email
+from MailBuddy import Email
 
 # Create an email object
 email = Email(
@@ -60,7 +60,7 @@ email.send(
 
 ## 💬 Contributing
 
-We welcome contributions! Feel free to open issues or submit pull requests. Let's make Emailer even better together! 🤝
+We welcome contributions! Feel free to open issues or submit pull requests. Let's make MailBuddy even better together! 🤝
 
 ## 📜 License
 
