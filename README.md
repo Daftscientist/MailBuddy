@@ -11,16 +11,9 @@ Welcome to the **MailBuddy Library**! This is a Python utility designed to make 
 
 ## 🛠️ Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/daftscientist/MailBuddy.git
-```
-
-Navigate to the project directory:
-
-```bash
-cd MailBuddy
+Install our project on PyPi:
+```shell
+pip install MailBuddy
 ```
 
 ## 🌟 Usage
