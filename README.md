@@ -11,7 +11,7 @@ Welcome to the **MailBuddy Library**! This is a Python utility designed to make 
 
 ## 🛠️ Installation
 
-Install our project on PyPi:
+Install our project on [our PyPi project](https://pypi.org/project/MailBuddy/):
 ```shell
 pip install MailBuddy
 ```
